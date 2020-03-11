@@ -289,6 +289,9 @@
     <Reference Include="Valve.Newtonsoft.Json">
       <HintPath>C:/Users/nilst/OneDrive/aventus/Techquest/Techquest/Assets/SteamVR/Input/Plugins/JSON.NET/Valve.Newtonsoft.Json.dll</HintPath>
     </Reference>
+    <Reference Include="ICSharpCode.NRefactory">
+      <HintPath>C:/Users/nilst/OneDrive/aventus/Techquest/Techquest/Library/PackageCache/com.unity.render-pipelines.core@7.2.1/Editor/ShaderGenerator/ICSharpCode.NRefactory.dll</HintPath>
+    </Reference>
     <Reference Include="nunit.framework">
       <HintPath>C:/Users/nilst/OneDrive/aventus/Techquest/Techquest/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
